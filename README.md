@@ -5,3 +5,5 @@
 - learning game development in my free time
 - interested in collaborting and learning from other developers
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ofekkr1)](https://git.io/streak-stats)
