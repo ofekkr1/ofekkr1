@@ -24,5 +24,7 @@ Worked with the following technologies:
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ofekkr1)](https://git.io/streak-stats)
+![ofekkr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofekkr1&show_icons=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekkr1)](https://github.com/anuraghazra/github-readme-stats)
